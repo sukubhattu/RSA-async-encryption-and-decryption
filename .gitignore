@@ -1,0 +1,4 @@
+.env
+not_related/
+__pycache__/
+env/
