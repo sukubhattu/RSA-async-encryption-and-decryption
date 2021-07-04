@@ -1,11 +1,15 @@
 # RSA-async-encryption-and-decryption
 
 
-## E2E encryption
+# E2E encryption
 This repo has implementation of E2E encryption using python cryptography.
-### How to use?
+### What is inside?
 
- 1. Generate private key and public key. (*private_key.pem and public_key.pem file is automatically generated*)
- 2. Share your public_key.pem file and ask anyone to encrypt message and send it back to you.
- 3. Decryp that encrypted message with your private key.
- 4. Enjoy 🍿
+ 1. Generation of private and public key (*password for private key on way*).
+ 2. Automatic generation of *private_key.pem* and *public_key.pem*.
+ 3. Encrypt message, generate signature, verify signature and decrypt message.
+
+🔷 
+🔹
+🔸
+🔶
