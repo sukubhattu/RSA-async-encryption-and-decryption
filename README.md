@@ -1,7 +1,7 @@
 # RSA-async-encryption-and-decryption
 
 
-# E2E encryption
+## E2E encryption
 This repo has implementation of E2E encryption using python cryptography.
 ### What is inside?
 
